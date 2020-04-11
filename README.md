@@ -7,4 +7,4 @@ The matlab file *cubic_fitting_bootstrapping.m* loads the data from the file *su
 
 The matlab file *correlation example.m* loads the data from the four excel files *032412\*.xlsx* to produce the figure below.
 
-![](032412cMS.png.png)
+![](032412cMS.png)
