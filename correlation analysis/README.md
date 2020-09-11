@@ -8,7 +8,7 @@ The matlab file *cubic_fitting_resampling.m* loads the data from the file *summa
 
 ---
 
-The matlab file *correlation example.m* loads the data from the four excel files *032412\*.xlsx* to produce the figure below.
+The matlab file *correlation example.m* loads the data from the four excel files *sample1_\*.xlsx* to produce the figure below.
 
 ![](sample1_cMS.png)
 
