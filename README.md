@@ -3,7 +3,9 @@ Code and sample data used for parts of the analysis in the paper Jafari et al 20
 
 ---
 
-The matlab file *cubic_fitting_bootstrapping.m* loads the data from the file *summary_data.xlsx* to produce the figure below.
+## Correlation analysis
+
+The matlab file *cubic_fitting_resampling.m* loads the data from the file *summary_data.xlsx* to produce the figure below.
 
 ![](figureA.png)
 
@@ -12,3 +14,8 @@ The matlab file *cubic_fitting_bootstrapping.m* loads the data from the file *su
 The matlab file *correlation example.m* loads the data from the four excel files *032412\*.xlsx* to produce the figure below.
 
 ![](032412cMS.png)
+
+
+---
+
+## Nic's Code
