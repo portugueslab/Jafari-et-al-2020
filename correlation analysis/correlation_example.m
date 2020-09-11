@@ -7,11 +7,11 @@ clc
 % sheet for each site and repetition: the site is the second number and the
 % imaging repetition the fourth. 
 
-fname0='032412sysEAE.xlsx';
-fname1='032412cyto+3.xlsx';
-fname2='032412cyto+10.xlsx';
-fname3='032412cyto+17.xlsx';
-mtitle='032412cMS';
+fname0='sample1_sysEAE.xlsx';
+fname1='sample1_cyto+3.xlsx';
+fname2='sample1_cyto+10.xlsx';
+fname3='sample1_cyto+17.xlsx';
+mtitle='sample1_cMS';
 
 %%%%%%%%%%%%%%%%%%%%%%%% fname0 
 
