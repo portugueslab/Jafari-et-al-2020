@@ -1,7 +1,11 @@
 # Jafari-et-al-2020
-Code and sample data used for parts of the analysis in the paper Jafari et al 2020.
+
+Code and sample data used for parts of the analysis in the paper Jafari et al 2020. Please cite this paper
 
 ---
+## Graphical User Interface
+
+Matlab software used to select cells in calcium imaging data.
 
 ## Correlation analysis
 
@@ -18,4 +22,4 @@ The matlab file *correlation example.m* loads the data from the four excel files
 
 ---
 
-## Nic's Code
+

@@ -84,7 +84,7 @@ plot(xs,min(allzs),'b')
 for i=1:length(xs)
     [C,ix]=sort(allzs(:,i),'descend');
     upper(i)=C(length(ix)-12);
-    [C,ix]=sort(allzs(:,i),'ascend');
+    [C,ix]=sort(allzs(:,i),'descend');
     lower(i)=C(12);
     [C,ix]=sort(allzs(:,i),'ascend');
     med(i)=C(126);
