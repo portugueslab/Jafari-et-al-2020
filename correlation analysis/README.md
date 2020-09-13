@@ -2,7 +2,7 @@
 
 ## Correlation analysis
 
-The matlab file *cubic_fitting_resampling.m* loads the data from the file *summary_data.xlsx* to produce the figure below.
+The matlab file *cubic_fitting_resampling.m* generates the figure below.
 
 ![](figureA.png)
 
